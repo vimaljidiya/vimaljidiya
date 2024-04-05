@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sandip patel</h1>
+<h1 align="center">Hi 👋, I'm Vimal Jidiya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400px"  src="https://github.com/Sandip-364710/Sandip-364710/assets/153447817/37d72f6d-b1b5-49f6-9e0e-575d58138913">
 <h3 align="left">Connect with me:</h3>
