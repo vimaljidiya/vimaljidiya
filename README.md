@@ -3,10 +3,8 @@
 <img align="right" alt="coding" width="400px"  src="https://github.com/Sandip-364710/Sandip-364710/assets/153447817/37d72f6d-b1b5-49f6-9e0e-575d58138913">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sandip patel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandip patel" height="30" width="40" /></a>
-<a href="https://fb.com/sandip patel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sandip patel" height="30" width="40" /></a>
-<a href="https://instagram.com/jakhaniyasandip" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jakhaniyasandip" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/sandip patel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sandip patel" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vimal jidiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Vimal Jidiya" height="30" width="40" /></a>
+<a href="https://instagram.com/mr_vimal_jidiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Vimal Jidiya" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
